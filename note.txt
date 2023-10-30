@@ -1,0 +1,9 @@
+注意！
+如果需要运行实例代码，请在以code为根目录下运行
+这样可以免去更改地址的困扰
+--------------------------------------------------------------
+因涉及患者隐私故不包含数据
+以下数据集已清除所有内容
+mini_resized ：  \MedicalImagingAndImageProcessing\code\class7-8\code\
+data ：  \MedicalImagingAndImageProcessing\code\class9-14\
+
